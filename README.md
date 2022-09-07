@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
     This is an ALX collaboration project on Shell betweent Salihu AbdulJawwad and Lebi Oluwasoji
@@ -51,3 +52,6 @@ help [built-in] 	Read documentation for a built-in.
 Credits
 
 All code written by Salihu AbdulJawwad and Lebi Oluwasoji.
+=======
+UNIX command line interpreter.
+>>>>>>> 8cd5d23bff4c67fec9c706a5cfa638ca04e19029
