@@ -1,1 +1,0 @@
-UNIX command line interpreter.
